@@ -1,11 +1,12 @@
-# Custom_AlertDialog_Builder
+# Custom AlertDialog Builder
 
 
-এই রকম Alert Dialog বানানোঃ-
-setContentView(R.layout.activity_main);
-এই লাইনের নিচে আমরা যেখানে variable গুলা পরিচয় করাই দেয় যেমনঃ
-button = findViewById(R.id.button); 
-এই লাইনগুলার নিচে লিখুন.
+#### এই রকম Alert Dialog বানানোঃ-
+
+#### setContentView(R.layout.activity_main);
+#### এই লাইনের নিচে আমরা যেখানে variable গুলা পরিচয় করাই দেয় যেমনঃ
+#### button = findViewById(R.id.button); 
+#### এই লাইনগুলার নিচে লিখুন:
 
 ```
 AlertDialog.Builder builder = new AlertDialog.Builder(this);
